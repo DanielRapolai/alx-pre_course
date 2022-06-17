@@ -1,1 +1,1 @@
-My second readme
+git is a little bit hard but it is nothing I cannot concur, love it!
